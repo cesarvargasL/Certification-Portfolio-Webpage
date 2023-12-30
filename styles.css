@@ -1,0 +1,13 @@
+/* Estilos para pantallas grandes */
+@media screen and (min-width: 768px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  /* Estilos para pantallas pequeñas */
+  @media screen and (max-width: 767px) {
+    body {
+      background-color: lightgreen;
+    }
+}
